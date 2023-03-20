@@ -402,7 +402,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   hasPowerup: 0
-  powerupIndicator: {fileID: 0}
+  powerupIndicator: {fileID: 1377288506}
 --- !u!1 &1050585282
 GameObject:
   m_ObjectHideFlags: 0
@@ -672,6 +672,11 @@ Transform:
   m_Father: {fileID: 1157576568}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 30, y: 0, z: 0}
+--- !u!1 &1377288506 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1742899641471652, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
+  m_PrefabInstance: {fileID: 648569638}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1403545340
 PrefabInstance:
   m_ObjectHideFlags: 0
